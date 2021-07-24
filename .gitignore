@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Intermediate files
+Health/r_data_output/
+Health/r_figure_output
+NEMSPost/r_data_output/
+NEMSPost/r_figure_output
