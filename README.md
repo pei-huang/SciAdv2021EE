@@ -12,7 +12,7 @@ This folder contains the NEMS simulation data and source code to project energy-
 
 ## IAQ
 
-This folder consists of the input data and source code for the indoor air quality analysis. The data build stream is controled by “Main.m”. The routine generates all indoor air quality data and the associated figures presented in the paper.
+This folder consists of the input data and source code for the indoor air quality analysis. The data build stream is controled by *Main.m*. The routine generates all indoor air quality data and the associated figures presented in the paper.
 
 ## Health
 
